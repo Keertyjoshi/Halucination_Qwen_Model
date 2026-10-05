@@ -1,0 +1,902 @@
+[
+  {
+    "question_id": 1,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Mexican-American War, Second Balkan War, Gaza war (2023–), War in Afghanistan (2001–2021), Battle of Poitiers",
+    "expected": "Battle of Poitiers, Mexican-American War, Second Balkan War, War in Afghanistan (2001–2021), Gaza war (2023–)",
+    "prediction": "Battle of Poitiers, Mexican-American War, War in Afghanistan (2001–2021), Second Balkan War, Gaza war (2023–)",
+    "unique_id": "070000000101"
+  },
+  {
+    "question_id": 1,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: મેક્સિકન-અમેરિકન યુદ્ધ, બીજું બાલ્કન યુદ્ધ, ગાઝા યુદ્ધ (2023–), અફઘાનિસ્તાનમાં યુદ્ધ (2001–2021), પોઇટિયર્સનું યુદ્ધ",
+    "expected": "પોઇટિયર્સનું યુદ્ધ, મેક્સિકન-અમેરિકન યુદ્ધ, બીજું બાલ્કન યુદ્ધ, અફઘાનિસ્તાનમાં યુદ્ધ (2001–2021), ગાઝા યુદ્ધ (2023–)",
+    "prediction": "મેક્સિકન-અમેરિકન યુદ્ધ, બીજું બાલ્કન યુદ્ધ, અફઘાનિસ્તાનમાં યુદ્ધ (2001–2021), પોઇટિયર્સનું યુદ્ધ, ગ�",
+    "unique_id": "070000000103"
+  },
+  {
+    "question_id": 1,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: मैक्सिकन-अमेरिकी युद्ध, दूसरा बाल्कन युद्ध, गाजा युद्ध (2023–), अफगानिस्तान में युद्ध (2001–2021), पोइटियर्स का युद्ध",
+    "expected": "पोइटियर्स का युद्ध, मैक्सिकन-अमेरिकी युद्ध, दूसरा बाल्कन युद्ध, अफगानिस्तान में युद्ध (2001–2021), गाजा युद्ध (2023–)",
+    "prediction": "गाजा युद्ध (2023–), मैक्सिकन-अमेरिकी युद्ध, दूसरा बाल्कन युद्ध, पोइटियर्स का युद्ध, अफगानिस्तान में युद्ध (2001–2021)",
+    "unique_id": "070000000102"
+  },
+  {
+    "question_id": 1,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: मेक्सिकन-अमेरिकन युद्ध, दुसरे बाल्कन युद्ध, गाझा युद्ध (2023–), अफगाणिस्तानमधील युद्ध (2001–2021), पॉइटियर्सची लढाई",
+    "expected": "पॉइटियर्सची लढाई, मेक्सिकन-अमेरिकन युद्ध, दुसरे बाल्कन युद्ध, अफगाणिस्तानमधील युद्ध (2001–2021), गाझा युद्ध (2023–)",
+    "prediction": "पॉइटियर्सची लढाई, मेक्सिकन-अमेरिकन युद्ध, अफगाणिस्तानमधील युद्ध, दुसरे बाल्कन युद्ध, गाझा युद्ध (2023–)",
+    "unique_id": "070000000104"
+  },
+  {
+    "question_id": 1,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ମେକ୍ସିକାନ୍-ଆମେରିକାନ୍ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବାଲକାନ୍ ଯୁଦ୍ଧ, ଗାଜା ଯୁଦ୍ଧ (2023–), ଆଫଗାନିସ୍ତାନରେ ଯୁଦ୍ଧ (2001–2021), ପୋଇଟିଅର୍ସ ଯୁଦ୍ଧ",
+    "expected": "ପୋଇଟିଅର୍ସ ଯୁଦ୍ଧ, ମେକ୍ସିକାନ୍-ଆମେରିକାନ୍ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବାଲକାନ୍ ଯୁଦ୍ଧ, ଆଫଗାନିସ୍ତାନରେ ଯୁଦ୍ଧ (2001–2021), ଗାଜା ଯୁଦ୍ଧ (2023–)",
+    "prediction": "ମେକ୍ସିକାନ୍-ଆମେରିକାନ୍ ଯୁଦ୍ଧ, ଆଫଗାନିସ୍ତାନରେ ଯୁଦ୍ଧ (2001–2021), ଦ୍ୱିତୀୟ ବାଲକାନ୍ ଯ�",
+    "unique_id": "070000000105"
+  },
+  {
+    "question_id": 2,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Russo-Ukrainian War, Kosovo War, Battle of Mohács, Suez Crisis, First Nagorno-Karabakh War",
+    "expected": "Battle of Mohács, Suez Crisis, First Nagorno-Karabakh War, Kosovo War, Russo-Ukrainian War",
+    "prediction": "Battle of Mohács, Suez Crisis, Kosovo War, Russo-Ukrainian War, First Nagorno-Karabakh War",
+    "unique_id": "070000000201"
+  },
+  {
+    "question_id": 2,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: રુસો-યુક્રેનિયન યુદ્ધ, કોસોવો યુદ્ધ, મોહાક્સનું યુદ્ધ, સુએઝ સંકટ, પ્રથમ નાગોર્નો-કારાબાખ યુદ્ધ",
+    "expected": "મોહાક્સનું યુદ્ધ, સુએઝ સંકટ, પ્રથમ નાગોર્નો-કારાબાખ યુદ્ધ, કોસોવો યુદ્ધ, રુસો-યુક્રેનિયન યુદ્ધ",
+    "prediction": "મોહાક્સનું યુદ્ધ, સુએઝ સંકટ, રુસો-યુક્રેનિયન યુદ્ધ, પ્રથમ નાગોર્નો-કારાબાખ યુદ્ધ, કોસોવો યુદ્ધ",
+    "unique_id": "070000000203"
+  },
+  {
+    "question_id": 2,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: रूस-यूक्रेनी युद्ध, कोसोवो युद्ध, मोहाक का युद्ध, स्वेज संकट, प्रथम नागोर्नो-काराबाख युद्ध",
+    "expected": "मोहाक का युद्ध, स्वेज संकट, प्रथम नागोर्नो-काराबाख युद्ध, कोसोवो युद्ध, रूस-यूक्रेनी युद्ध",
+    "prediction": "मोहाक का युद्ध, स्वेज संकट, कोसोवो युद्ध, प्रथम नागोर्नो-काराबाख युद्ध, रूस-यूक्रेनी युद्ध",
+    "unique_id": "070000000202"
+  },
+  {
+    "question_id": 2,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: रशिया-युक्रेन युद्ध, कोसोवो युद्ध, मोहाचची लढाई, सुएझ संकट, पहिले नागोर्नो-काराबाख युद्ध",
+    "expected": "मोहाचची लढाई, सुएझ संकट, पहिले नागोर्नो-काराबाख युद्ध, कोसोवो युद्ध, रशिया-युक्रेन युद्ध",
+    "prediction": "कोसोवो युद्ध, मोहाचची लढाई, सुएझ संकट, पहिले नागोर्नो-काराबाख युद्ध, रशिया-युक्रेन युद्ध",
+    "unique_id": "070000000204"
+  },
+  {
+    "question_id": 2,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ଋଷ-ୟୁକ୍ରେନୀୟ ଯୁଦ୍ଧ, କୋସୋଭୋ ଯୁଦ୍ଧ, ମୋହାକ୍ସ ଯୁଦ୍ଧ, ସୁଏଜ୍ ସଙ୍କଟ, ପ୍ରଥମ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ",
+    "expected": "ମୋହାକ୍ସ ଯୁଦ୍ଧ, ସୁଏଜ୍ ସଙ୍କଟ, ପ୍ରଥମ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ, କୋସୋଭୋ ଯୁଦ୍ଧ, ଋଷ-ୟୁକ୍ରେନୀୟ ଯୁଦ୍ଧ",
+    "prediction": "ମୋହାକ୍ସ ଯୁଦ୍ଧ, କୋସୋଭୋ ଯୁଦ୍ଧ, ଋଷ-ୟୁକ୍ରେନୀୟ ଯୁଦ୍ଧ, ସୁଏଜ୍ ସଙ୍କଟ, ପ୍ରଥମ ନାଗୋ",
+    "unique_id": "070000000205"
+  },
+  {
+    "question_id": 6,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Tours, Yom Kippur War, Battle of Plataea, Gulf War, Battle of Mohács",
+    "expected": "Battle of Plataea, Battle of Tours, Battle of Mohács, Yom Kippur War, Gulf War",
+    "prediction": "Battle of Plataea, Battle of Tours, Battle of Mohács, Yom Kippur War, Gulf War",
+    "unique_id": "070000000601"
+  },
+  {
+    "question_id": 6,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: ટુર્સનું યુદ્ધ, યોમ કિપ્પુર યુદ્ધ, પ્લેટિયાનું યુદ્ધ, ગલ્ફ યુદ્ધ, મોહાક્સનું યુદ્ધ",
+    "expected": "પ્લેટિયાનું યુદ્ધ, ટુર્સનું યુદ્ધ, મોહાક્સનું યુદ્ધ, યોમ કિપ્પુર યુદ્ધ, ગલ્ફ યુદ્ધ",
+    "prediction": "ટુર્સનું યુદ્ધ, પ્લેટિયાનું યુદ્ધ, મોહાક્સનું યુદ્ધ, યોમ કિપ્પુર યુદ્ધ, ગલ્ફ યુદ્ધ",
+    "unique_id": "070000000603"
+  },
+  {
+    "question_id": 6,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: टूर्स का युद्ध, योम किप्पुर युद्ध, प्लाटिया का युद्ध, खाड़ी युद्ध, मोहाक का युद्ध",
+    "expected": "प्लाटिया का युद्ध, टूर्स का युद्ध, मोहाक का युद्ध, योम किप्पुर युद्ध, खाड़ी युद्ध",
+    "prediction": "प्लाटिया का युद्ध, टूर्स का युद्ध, मोहाक का युद्ध, खाड़ी युद्ध, योम किप्पुर युद्ध",
+    "unique_id": "070000000602"
+  },
+  {
+    "question_id": 6,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: टूर्सची लढाई, योम किप्पूर युद्ध, प्लॅटियाची लढाई, गल्फ युद्ध, मोहाचची लढाई",
+    "expected": "प्लॅटियाची लढाई, टूर्सची लढाई, मोहाचची लढाई, योम किप्पूर युद्ध, गल्फ युद्ध",
+    "prediction": "टूर्सची लढाई, प्लॅटियाची लढाई, मोहाचची लढाई, योम किप्पूर युद्ध, गल्फ युद्ध",
+    "unique_id": "070000000604"
+  },
+  {
+    "question_id": 6,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ଟୁର୍ସ ଯୁଦ୍ଧ, ୟୋମ୍ କିପୁର୍ ଯୁଦ୍ଧ, ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ଗଲ୍ଫ ଯୁଦ୍ଧ, ମୋହାକ୍ସ ଯୁଦ୍ଧ",
+    "expected": "ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ଟୁର୍ସ ଯୁଦ୍ଧ, ମୋହାକ୍ସ ଯୁଦ୍ଧ, ୟୋମ୍ କିପୁର୍ ଯୁଦ୍ଧ, ଗଲ୍ଫ ଯୁଦ୍ଧ",
+    "prediction": "TOURIST YUDDHA, GALLIPOLI YUDDHA, MUKTESWAR YUDDHA, PLATIA YUDDHA, YOM KIPUR YUDDHA",
+    "unique_id": "070000000605"
+  },
+  {
+    "question_id": 7,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: War of the Pacific, Gulf War, French invasion of Russia, Battle of Stamford Bridge, Battle of Issus",
+    "expected": "Battle of Issus, Battle of Stamford Bridge, French invasion of Russia, War of the Pacific, Gulf War",
+    "prediction": "Battle of Issus, Battle of Stamford Bridge, French invasion of Russia, War of the Pacific, Gulf War",
+    "unique_id": "070000000701"
+  },
+  {
+    "question_id": 7,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: પેસિફિકનું યુદ્ધ, ગલ્ફ યુદ્ધ, રશિયા પર ફ્રેન્ચ આક્રમણ, સ્ટેમફોર્ડ બ્રિજનું યુદ્ધ, ઇસસનું યુદ્ધ",
+    "expected": "ઇસસનું યુદ્ધ, સ્ટેમફોર્ડ બ્રિજનું યુદ્ધ, રશિયા પર ફ્રેન્ચ આક્રમણ, પેસિફિકનું યુદ્ધ, ગલ્ફ યુદ્ધ",
+    "prediction": "પેસિફિકનું યુદ્ધ, રશિયા પર ફ્રેન્ચ આક્રમણ, સ્ટેમફોર્ડ બ્રિજનું યુદ્ધ, ઇસસનું યુદ્ધ, ગલ્ફ યુદ્ધ",
+    "unique_id": "070000000703"
+  },
+  {
+    "question_id": 7,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: प्रशांत का युद्ध, खाड़ी युद्ध, रूस पर फ्रांसीसी आक्रमण, स्टैमफोर्ड ब्रिज का युद्ध, इस्सस का युद्ध",
+    "expected": "इस्सस का युद्ध, स्टैमफोर्ड ब्रिज का युद्ध, रूस पर फ्रांसीसी आक्रमण, प्रशांत का युद्ध, खाड़ी युद्ध",
+    "prediction": "प्रशांत का युद्ध, स्टैमफोर्ड ब्रिज का युद्ध, इस्सस का युद्ध, खाड़ी युद्ध, रूस पर फ्रांसीसी आक्रमण",
+    "unique_id": "070000000702"
+  },
+  {
+    "question_id": 7,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: पॅसिफिकचे युद्ध, गल्फ युद्ध, रशियावर फ्रेंच आक्रमण, स्टॅमफोर्ड ब्रिजची लढाई, इससची लढाई",
+    "expected": "इससची लढाई, स्टॅमफोर्ड ब्रिजची लढाई, रशियावर फ्रेंच आक्रमण, पॅसिफिकचे युद्ध, गल्फ युद्ध",
+    "prediction": "स्टॅमफोर्ड ब्रिजची लढाई, पॅसिफिकचे युद्ध, रशियावर फ्रेंच आक्रमण, इससची लढाई, गल्फ युद्ध",
+    "unique_id": "070000000704"
+  },
+  {
+    "question_id": 7,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ପ୍ରଶାନ୍ତ ମହାସାଗରୀୟ ଯୁଦ୍ଧ, ଗଲ୍ଫ ଯୁଦ୍ଧ, ଋଷ ଉପରେ ଫରାସୀ ଆକ୍ରମଣ, ଷ୍ଟାମଫୋର୍ଡ ବ୍ରିଜ୍ ଯୁଦ୍ଧ, ଇସସ୍ ଯୁଦ୍ଧ",
+    "expected": "ଇସସ୍ ଯୁଦ୍ଧ, ଷ୍ଟାମଫୋର୍ଡ ବ୍ରିଜ୍ ଯୁଦ୍ଧ, ଋଷ ଉପରେ ଫରାସୀ ଆକ୍ରମଣ, ପ୍ରଶାନ୍ତ ମହାସାଗରୀୟ ଯୁଦ୍ଧ, ଗଲ୍ଫ ଯୁଦ୍ଧ",
+    "prediction": "ଋଷ ଉପରେ ଫରାସୀ ଆକ୍ରମଣ, ପ୍ରଶାନ୍ତ ମହାସାଗରୀୟ ଯୁଦ୍ଧ, ଷ୍ଟାମଫୋର୍ଡ ବ୍ରିଜ୍ ଯୁଦ୍ଧ, ଗ",
+    "unique_id": "070000000705"
+  },
+  {
+    "question_id": 11,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Kosovo, Second Boer War, Iraq War, Battle of the Catalaunian Plains, Battle of Badr",
+    "expected": "Battle of the Catalaunian Plains, Battle of Badr, Battle of Kosovo, Second Boer War, Iraq War",
+    "prediction": "Battle of the Catalaunian Plains, Battle of Kosovo, Second Boer War, Battle of Badr, Iraq War",
+    "unique_id": "070000001101"
+  },
+  {
+    "question_id": 11,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: કોસોવોનું યુદ્ધ, બીજું બોઅર યુદ્ધ, ઇરાક યુદ્ધ, કેટાલૌનિયન મેદાનોનું યુદ્ધ, બદ્રનું યુદ્ધ",
+    "expected": "કેટાલૌનિયન મેદાનોનું યુદ્ધ, બદ્રનું યુદ્ધ, કોસોવોનું યુદ્ધ, બીજું બોઅર યુદ્ધ, ઇરાક યુદ્ધ",
+    "prediction": "બદ્રનું યુદ્ધ, કેટાલૌનિયન મેદાનોનું યુદ્ધ, બીજું બોઅર યુદ્ધ, ઇરાક યુદ્ધ, કોસોવોનું યુદ્ધ",
+    "unique_id": "070000001103"
+  },
+  {
+    "question_id": 11,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: कोसोवो का युद्ध, दूसरा बोअर युद्ध, इराक युद्ध, कैटालोनियन मैदानों का युद्ध, बद्र का युद्ध",
+    "expected": "कैटालोनियन मैदानों का युद्ध, बद्र का युद्ध, कोसोवो का युद्ध, दूसरा बोअर युद्ध, इराक युद्ध",
+    "prediction": "बद्र का युद्ध, दूसरा बोअर युद्ध, कैटालोनियन मैदानों का युद्ध, कोसोवो का युद्ध, इराक युद्ध",
+    "unique_id": "070000001102"
+  },
+  {
+    "question_id": 11,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: कोसोवोची लढाई, दुसरे बोअर युद्ध, इराक युद्ध, कॅटालोनियन मैदानाची लढाई, बद्रची लढाई",
+    "expected": "कॅटालोनियन मैदानाची लढाई, बद्रची लढाई, कोसोवोची लढाई, दुसरे बोअर युद्ध, इराक युद्ध",
+    "prediction": "बद्रची लढाई, कॅटालोनियन मैदानाची लढाई, दुसरे बोअर युद्ध, कोसोवोची लढाई, इराक युद्ध",
+    "unique_id": "070000001104"
+  },
+  {
+    "question_id": 11,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: କୋସୋଭୋ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ, ଇରାକ ଯୁଦ୍ଧ, କାଟାଲୌନିଆନ୍ ସମତଳ ଯୁଦ୍ଧ, ବଦର୍ ଯୁଦ୍ଧ",
+    "expected": "କାଟାଲୌନିଆନ୍ ସମତଳ ଯୁଦ୍ଧ, ବଦର୍ ଯୁଦ୍ଧ, କୋସୋଭୋ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ, ଇରାକ ଯୁଦ୍ଧ",
+    "prediction": "ବଦର୍ ଯୁଦ୍ଧ, କାଟାଲୌନିଆନ୍ ସମତଳ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ, କୋସୋଭୋ ଯୁଦ୍ଧ, ଇର",
+    "unique_id": "070000001105"
+  },
+  {
+    "question_id": 12,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Issus, Battle of Moscow, Battle of Nicopolis, Second Boer War, Battle of Kulikovo",
+    "expected": "Battle of Issus, Battle of Kulikovo, Battle of Nicopolis, Second Boer War, Battle of Moscow",
+    "prediction": "Battle of Kulikovo, Battle of Issus, Battle of Nicopolis, Second Boer War, Battle of Moscow",
+    "unique_id": "070000001201"
+  },
+  {
+    "question_id": 12,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: ઇસસનું યુદ્ધ, મોસ્કોનું યુદ્ધ, નિકોપોલિસનું યુદ્ધ, બીજું બોઅર યુદ્ધ, કુલીકોવોનું યુદ્ધ",
+    "expected": "ઇસસનું યુદ્ધ, કુલીકોવોનું યુદ્ધ, નિકોપોલિસનું યુદ્ધ, બીજું બોઅર યુદ્ધ, મોસ્કોનું યુદ્ધ",
+    "prediction": "નિકોપોલિસનું યુદ્ધ, ઇસસનું યુદ્ધ, બીજું બોઅર યુદ્ધ, કુલીકોવોનું યુદ્ધ, મોસ્કોનું યુદ્ધ",
+    "unique_id": "070000001203"
+  },
+  {
+    "question_id": 12,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: इस्सस का युद्ध, मॉस्को का युद्ध, निकोपोलिस का युद्ध, दूसरा बोअर युद्ध, कुलिकोवो का युद्ध",
+    "expected": "इस्सस का युद्ध, कुलिकोवो का युद्ध, निकोपोलिस का युद्ध, दूसरा बोअर युद्ध, मॉस्को का युद्ध",
+    "prediction": "कुलिकोवो का युद्ध, इस्सस का युद्ध, मॉस्को का युद्ध, निकोपोलिस का युद्ध, दूसरा बोअर युद्ध",
+    "unique_id": "070000001202"
+  },
+  {
+    "question_id": 12,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: इससची लढाई, मॉस्कोची लढाई, निकोपोलिसची लढाई, दुसरे बोअर युद्ध, कुलिकोवोची लढाई",
+    "expected": "इससची लढाई, कुलिकोवोची लढाई, निकोपोलिसची लढाई, दुसरे बोअर युद्ध, मॉस्कोची लढाई",
+    "prediction": "इससची लढाई, निकोपोलिसची लढाई, कुलिकोवोची लढाई, मॉस्कोची लढाई, दुसरे बोअर युद्ध",
+    "unique_id": "070000001204"
+  },
+  {
+    "question_id": 12,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ଇସସ୍ ଯୁଦ୍ଧ, ମସ୍କୋ ଯୁଦ୍ଧ, ନିକୋପୋଲିସ୍ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ, କୁଲିକୋଭୋ ଯୁଦ୍ଧ",
+    "expected": "ଇସସ୍ ଯୁଦ୍ଧ, କୁଲିକୋଭୋ ଯୁଦ୍ଧ, ନିକୋପୋଲିସ୍ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ, ମସ୍କୋ ଯୁଦ୍ଧ",
+    "prediction": "ইସସ୍ ଯୁଦ୍ଧ, ନିକୋପୋଲିସ୍ ଯୁଦ୍ଧ, ମସ୍କୋ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ, କୁଲିକୋଭ",
+    "unique_id": "070000001205"
+  },
+  {
+    "question_id": 16,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Karbala, Second Nagorno-Karabakh War, Fall of Kabul, Battle of Plataea, Battle of Vienna",
+    "expected": "Battle of Plataea, Battle of Karbala, Battle of Vienna, Second Nagorno-Karabakh War, Fall of Kabul",
+    "prediction": "Battle of Plataea, Battle of Karbala, Battle of Vienna, Fall of Kabul, Second Nagorno-Karabakh War",
+    "unique_id": "070000001601"
+  },
+  {
+    "question_id": 16,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: કરબલાનું યુદ્ધ, બીજું નાગોર્નો-કારાબાખ યુદ્ધ, કાબુલનું પતન, પ્લેટિયાનું યુદ્ધ, વિયેનાનું યુદ્ધ",
+    "expected": "પ્લેટિયાનું યુદ્ધ, કરબલાનું યુદ્ધ, વિયેનાનું યુદ્ધ, બીજું નાગોર્નો-કારાબાખ યુદ્ધ, કાબુલનું પતન",
+    "prediction": "કરબલાનું યુદ્ધ, પ્લેટિયાનું યુદ્ધ, બીજું નાગોર્નો-કારાબાખ યુદ્ધ, વિયેનાનું યુદ્ધ, કાબુલનું",
+    "unique_id": "070000001603"
+  },
+  {
+    "question_id": 16,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: कर्बला का युद्ध, दूसरा नागोर्नो-काराबाख युद्ध, काबुल का पतन, प्लाटिया का युद्ध, वियना का युद्ध",
+    "expected": "प्लाटिया का युद्ध, कर्बला का युद्ध, वियना का युद्ध, दूसरा नागोर्नो-काराबाख युद्ध, काबुल का पतन",
+    "prediction": "काबुल का पतन, प्लाटिया का युद्ध, वियना का युद्ध, कर्बला का युद्ध, दूसरा नागोर्नो-काराबाख युद्ध",
+    "unique_id": "070000001602"
+  },
+  {
+    "question_id": 16,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: कर्बलाची लढाई, दुसरे नागोर्नो-काराबाख युद्ध, काबुलचे पतन, प्लॅटियाची लढाई, व्हिएन्नाची लढाई",
+    "expected": "प्लॅटियाची लढाई, कर्बलाची लढाई, व्हिएन्नाची लढाई, दुसरे नागोर्नो-काराबाख युद्ध, काबुलचे पतन",
+    "prediction": "व्हिएन्नाची लढाई, प्लॅटियाची लढाई, काबुलचे पतन, कर्बलाची लढाई, दुसरे नागोर्नो-काराबाख युद्ध",
+    "unique_id": "070000001604"
+  },
+  {
+    "question_id": 16,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: କରବାଲା ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ, କାବୁଲର ପତନ, ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ଭିଏନା ଯୁଦ୍ଧ",
+    "expected": "ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, କରବାଲା ଯୁଦ୍ଧ, ଭିଏନା ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ, କାବୁଲର ପତନ",
+    "prediction": "কাবুল পতন, প্লাটাইা যুদ্ধ, করবালা যুদ্ধ, দ্বিতীয় নাগোর্ণ-কারাবাখ যুদ্ধ, ভিএনা যুদ্ধ",
+    "unique_id": "070000001605"
+  },
+  {
+    "question_id": 17,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Plassey, Battle of Ain Jalut, Battle of Thermopylae, Battle of Plataea, Battle of Uhud",
+    "expected": "Battle of Thermopylae, Battle of Plataea, Battle of Uhud, Battle of Ain Jalut, Battle of Plassey",
+    "prediction": "Battle of Thermopylae, Battle of Plataea, Battle of Ain Jalut, Battle of Uhud, Battle of Plassey",
+    "unique_id": "070000001701"
+  },
+  {
+    "question_id": 17,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: પ્લાસીનું યુદ્ધ, આઈન જલુતનું યુદ્ધ, થર્મોપાયલીનું યુદ્ધ, પ્લેટિયાનું યુદ્ધ, ઉહુદનું યુદ્ધ",
+    "expected": "થર્મોપાયલીનું યુદ્ધ, પ્લેટિયાનું યુદ્ધ, ઉહુદનું યુદ્ધ, આઈન જલુતનું યુદ્ધ, પ્લાસીનું યુદ્ધ",
+    "prediction": "થર્મોપાયલીનું યુદ્ધ, પ્લાસીનું યુદ્ધ, પ્લેટિયાનું યુદ્ધ, ઉહુદનું યુદ્ધ, આઈન જલુતનું યુદ્ધ",
+    "unique_id": "070000001703"
+  },
+  {
+    "question_id": 17,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: प्लासी का युद्ध, ऐन जलुत का युद्ध, थर्मोपाइले का युद्ध, प्लाटिया का युद्ध, उहुद का युद्ध",
+    "expected": "थर्मोपाइले का युद्ध, प्लाटिया का युद्ध, उहुद का युद्ध, ऐन जलुत का युद्ध, प्लासी का युद्ध",
+    "prediction": "थर्मोपाइले का युद्ध, प्लासी का युद्ध, ऐन जलुत का युद्ध, उहुद का युद्ध, प्लाटिया का युद्ध",
+    "unique_id": "070000001702"
+  },
+  {
+    "question_id": 17,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: प्लासीची लढाई, ऐन जलुतची लढाई, थर्मोपायलीची लढाई, प्लॅटियाची लढाई, उहुदची लढाई",
+    "expected": "थर्मोपायलीची लढाई, प्लॅटियाची लढाई, उहुदची लढाई, ऐन जलुतची लढाई, प्लासीची लढाई",
+    "prediction": "प्लासीची लढाई, ऐन जलुतची लढाई, थर्मोपायलीची लढाई, प्लॅटियाची लढाई, उहुदची लढाई",
+    "unique_id": "070000001704"
+  },
+  {
+    "question_id": 17,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ପଲାସୀ ଯୁଦ୍ଧ, ଆଇନ୍ ଜାଲୁତ୍ ଯୁଦ୍ଧ, ଥର୍ମୋପାଇଲି ଯୁଦ୍ଧ, ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ଉହୁଦ୍ ଯୁଦ୍ଧ",
+    "expected": "ଥର୍ମୋପାଇଲି ଯୁଦ୍ଧ, ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ଉହୁଦ୍ ଯୁଦ୍ଧ, ଆଇନ୍ ଜାଲୁତ୍ ଯୁଦ୍ଧ, ପଲାସୀ ଯୁଦ୍ଧ",
+    "prediction": "थର୍ମୋପାଇଲି ଯୁଦ୍ଧ, ପଲାସୀ ଯୁଦ୍ଧ, ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ଆଇନ୍ ଜାଲୁତ୍ ଯୁଦ୍ଧ, ଉହୁଦ୍ ଯୁଦ",
+    "unique_id": "070000001705"
+  },
+  {
+    "question_id": 21,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Stamford Bridge, Fall of Kabul, Battle of White Mountain, Battle of Plassey, Battle of Varna",
+    "expected": "Battle of Stamford Bridge, Battle of Varna, Battle of White Mountain, Battle of Plassey, Fall of Kabul",
+    "prediction": "Battle of Stamford Bridge, Battle of Varna, Battle of Plassey, Fall of Kabul, Battle of White Mountain",
+    "unique_id": "070000002101"
+  },
+  {
+    "question_id": 21,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: સ્ટેમફોર્ડ બ્રિજનું યુદ્ધ, કાબુલનું પતન, વ્હાઇટ માઉન્ટેનનું યુદ્ધ, પ્લાસીનું યુદ્ધ, વર્નાનું યુદ્ધ",
+    "expected": "સ્ટેમફોર્ડ બ્રિજનું યુદ્ધ, વર્નાનું યુદ્ધ, વ્હાઇટ માઉન્ટેનનું યુદ્ધ, પ્લાસીનું યુદ્ધ, કાબુલનું પતન",
+    "prediction": "પ્લાસીનું યુદ્ધ, વર્નાનું યુદ્ધ, વ્હાઇટ માઉન્ટેનનું યુદ્ધ, સ્ટેમફોર્ડ બ્રિજનું યુદ્ધ, કાબુલન",
+    "unique_id": "070000002103"
+  },
+  {
+    "question_id": 21,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: स्टैमफोर्ड ब्रिज का युद्ध, काबुल का पतन, व्हाइट माउंटेन का युद्ध, प्लासी का युद्ध, वर्ना का युद्ध",
+    "expected": "स्टैमफोर्ड ब्रिज का युद्ध, वर्ना का युद्ध, व्हाइट माउंटेन का युद्ध, प्लासी का युद्ध, काबुल का पतन",
+    "prediction": "वर्ना का युद्ध, प्लासी का युद्ध, व्हाइट माउंटेन का युद्ध, स्टैमफोर्ड ब्रिज का युद्ध, काबुल का पतन",
+    "unique_id": "070000002102"
+  },
+  {
+    "question_id": 21,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: स्टॅमफोर्ड ब्रिजची लढाई, काबुलचे पतन, व्हाईट माउंटनची लढाई, प्लासीची लढाई, वर्णाची लढाई",
+    "expected": "स्टॅमफोर्ड ब्रिजची लढाई, वर्णाची लढाई, व्हाईट माउंटनची लढाई, प्लासीची लढाई, काबुलचे पतन",
+    "prediction": "प्लासीची लढाई, वर्णाची लढाई, स्टॅमफोर्ड ब्रिजची लढाई, व्हाईट माउंटनची लढाई, काबुलचे पतन",
+    "unique_id": "070000002104"
+  },
+  {
+    "question_id": 21,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ଷ୍ଟାମଫୋର୍ଡ ବ୍ରିଜ୍ ଯୁଦ୍ଧ, କାବୁଲର ପତନ, ହ୍ୱାଇଟ୍ ମାଉଣ୍ଟେନ୍ ଯୁଦ୍ଧ, ପଲାସୀ ଯୁଦ୍ଧ, ଭର୍ଣ୍ଣା ଯୁଦ୍ଧ",
+    "expected": "ଷ୍ଟାମଫୋର୍ଡ ବ୍ରିଜ୍ ଯୁଦ୍ଧ, ଭର୍ଣ୍ଣା ଯୁଦ୍ଧ, ହ୍ୱାଇଟ୍ ମାଉଣ୍ଟେନ୍ ଯୁଦ୍ଧ, ପଲାସୀ ଯୁଦ୍ଧ, କାବୁଲର ପତନ",
+    "prediction": "ষ୍ଟାମଫୋର୍ଡ ବ୍ରିଜ୍ ଯୁଦ୍ଧ, ହ୍ୱାଇଟ୍ ମାଉଣ୍ଟେନ୍ ଯୁଦ୍ଧ, ପଲାସୀ ଯୁଦ୍ଧ, ଭର୍ଣ୍ଣା ଯ�",
+    "unique_id": "070000002105"
+  },
+  {
+    "question_id": 22,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: 1948 Palestine War, Battle of Thermopylae, Battle of Marathon, Battle of the Teutoburg Forest, Seven Years' War",
+    "expected": "Battle of Marathon, Battle of Thermopylae, Battle of the Teutoburg Forest, Seven Years' War, 1948 Palestine War",
+    "prediction": "Battle of Marathon, Battle of Thermopylae, Battle of the Teutoburg Forest, 1948 Palestine War, Seven Years' War",
+    "unique_id": "070000002201"
+  },
+  {
+    "question_id": 22,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: 1948 પેલેસ્ટાઇન યુદ્ધ, થર્મોપાયલીનું યુદ્ધ, મેરેથોનનું યુદ્ધ, ટ્યુટોબર્ગ જંગલનું યુદ્ધ, સાત વર્ષનું યુદ્ધ",
+    "expected": "મેરેથોનનું યુદ્ધ, થર્મોપાયલીનું યુદ્ધ, ટ્યુટોબર્ગ જંગલનું યુદ્ધ, સાત વર્ષનું યુદ્ધ, 1948 પેલેસ્ટાઇન યુદ્ધ",
+    "prediction": "થર્મોપાયલીનું યુદ્ધ, મેરેથોનનું યુદ્ધ, ટ્યુટોબર્ગ જંગલનું યુદ્ધ, સાત વર્ષનું યુદ્ધ, 1948 પેલેસ",
+    "unique_id": "070000002203"
+  },
+  {
+    "question_id": 22,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: 1948 फिलिस्तीन युद्ध, थर्मोपाइले का युद्ध, मैराथन का युद्ध, टुटोबर्ग वन का युद्ध, सात वर्षीय युद्ध",
+    "expected": "मैराथन का युद्ध, थर्मोपाइले का युद्ध, टुटोबर्ग वन का युद्ध, सात वर्षीय युद्ध, 1948 फिलिस्तीन युद्ध",
+    "prediction": "थर्मोपाइले का युद्ध, मैराथन का युद्ध, सात वर्षीय युद्ध, 1948 फिलिस्तीन युद्ध, टुटोबर्ग वन का युद्ध",
+    "unique_id": "070000002202"
+  },
+  {
+    "question_id": 22,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: 1948 पॅलेस्टाईन युद्ध, थर्मोपायलीची लढाई, मॅरेथॉनची लढाई, ट्युटोबर्ग जंगलाची लढाई, सात वर्षांचे युद्ध",
+    "expected": "मॅरेथॉनची लढाई, थर्मोपायलीची लढाई, ट्युटोबर्ग जंगलाची लढाई, सात वर्षांचे युद्ध, 1948 पॅलेस्टाईन युद्ध",
+    "prediction": "थर्मोपायलीची लढाई, मॅरेथॉनची लढाई, ट्युटोबर्ग जंगलाची लढाई, सात वर्षांचे युद्ध, 1948 पॅलेस्टाईन युद्ध",
+    "unique_id": "070000002204"
+  },
+  {
+    "question_id": 22,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: 1948 ପାଲେଷ୍ଟାଇନ୍ ଯୁଦ୍ଧ, ଥର୍ମୋପାଇଲି ଯୁଦ୍ଧ, ମାରାଥନ୍ ଯୁଦ୍ଧ, ଟ୍ୟୁଟୋବର୍ଗ ଜଙ୍ଗଲର ଯୁଦ୍ଧ, ସାତ ବର୍ଷର ଯୁଦ୍ଧ",
+    "expected": "ମାରାଥନ୍ ଯୁଦ୍ଧ, ଥର୍ମୋପାଇଲି ଯୁଦ୍ଧ, ଟ୍ୟୁଟୋବର୍ଗ ଜଙ୍ଗଲର ଯୁଦ୍ଧ, ସାତ ବର୍ଷର ଯୁଦ୍ଧ, 1948 ପାଲେଷ୍ଟାଇନ୍ ଯୁଦ୍ଧ",
+    "prediction": "1948 पालେଷ୍ଟାଇନ୍ ଯୁଦ୍ଧ, ମାରାଥନ୍ ଯୁଦ୍�hud, ସାତ ବର୍ଷର ଯୁଦ୍ଧ, ଥର୍ମୋପାଇଲି ଯୁଦ୍ଧ, ଟ୍ୟ�",
+    "unique_id": "070000002205"
+  },
+  {
+    "question_id": 26,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Polish–Soviet War, Battle of Manzikert, War in Afghanistan (2001–2021), Falklands War, Battle of Vienna",
+    "expected": "Battle of Manzikert, Battle of Vienna, Polish–Soviet War, Falklands War, War in Afghanistan (2001–2021)",
+    "prediction": "Battle of Manzikert, Polish–Soviet War, Battle of Vienna, Falklands War, War in Afghanistan (2001–2021)",
+    "unique_id": "070000002601"
+  },
+  {
+    "question_id": 26,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: પોલિશ-સોવિયેત યુદ્ધ, મન્ઝિકર્ટનું યુદ્ધ, અફઘાનિસ્તાનમાં યુદ્ધ (2001–2021), ફોકલેન્ડ યુદ્ધ, વિયેનાનું યુદ્ધ",
+    "expected": "મન્ઝિકર્ટનું યુદ્ધ, વિયેનાનું યુદ્ધ, પોલિશ-સોવિયેત યુદ્ધ, ફોકલેન્ડ યુદ્ધ, અફઘાનિસ્તાનમાં યુદ્ધ (2001–2021)",
+    "prediction": "પોલિશ-સોવિયેત યુદ્ધ, ફોકલેન્ડ યુદ્ધ, વિયેનાનું યુદ્ધ, મન્ઝિકર્ટનું યુદ્ધ, અફઘાનિસ્તાનમાં યુ",
+    "unique_id": "070000002603"
+  },
+  {
+    "question_id": 26,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: पोलिश-सोवियत युद्ध, मान्ज़िकर्ट का युद्ध, अफगानिस्तान में युद्ध (2001–2021), फ़ॉकलैंड युद्ध, वियना का युद्ध",
+    "expected": "मान्ज़िकर्ट का युद्ध, वियना का युद्ध, पोलिश-सोवियत युद्ध, फ़ॉकलैंड युद्ध, अफगानिस्तान में युद्ध (2001–2021)",
+    "prediction": "मान्ज़िकर्ट का युद्ध, वियना का युद्ध, पोलिश-सोवियत युद्ध, फ़ॉकलैंड युद्ध, अफगानिस्तान में युद्ध (2001–2021)",
+    "unique_id": "070000002602"
+  },
+  {
+    "question_id": 26,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: पोलिश-सोव्हिएत युद्ध, मँझिकर्टची लढाई, अफगाणिस्तानमधील युद्ध (2001–2021), फॉकलँड युद्ध, व्हिएन्नाची लढाई",
+    "expected": "मँझिकर्टची लढाई, व्हिएन्नाची लढाई, पोलिश-सोव्हिएत युद्ध, फॉकलँड युद्ध, अफगाणिस्तानमधील युद्ध (2001–2021)",
+    "prediction": "पोलिश-सोव्हिएत युद्ध, मँझिकर्टची लढाई, फॉकलँड युद्ध, व्हिएन्नाची लढाई, अफगाणिस्तानमधील युद्ध (2001–2021)",
+    "unique_id": "070000002604"
+  },
+  {
+    "question_id": 26,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ପୋଲିଶ୍-ସୋଭିଏତ୍ ଯୁଦ୍ଧ, ମାଞ୍ଜିକର୍ଟ ଯୁଦ୍ଧ, ଆଫଗାନିସ୍ତାନରେ ଯୁଦ୍ଧ (2001–2021), ଫକଲ୍ୟାଣ୍ଡ ଯୁଦ୍ଧ, ଭିଏନା ଯୁଦ୍ଧ",
+    "expected": "ମାଞ୍ଜିକର୍ଟ ଯୁଦ୍ଧ, ଭିଏନା ଯୁଦ୍ଧ, ପୋଲିଶ୍-ସୋଭିଏତ୍ ଯୁଦ୍ଧ, ଫକଲ୍ୟାଣ୍ଡ ଯୁଦ୍ଧ, ଆଫଗାନିସ୍ତାନରେ ଯୁଦ୍ଧ (2001–2021)",
+    "prediction": "ପୋଲିଶ୍-ସୋଭିଏତ୍ ଯୁଦ୍ଧ, ମାଞ୍ଜିକର୍ଟ ଯୁଦ୍ଧ, ଫକଲ୍ୟାଣ୍ଡ ଯୁଦ୍ଧ, ଭିଏନା ଯୁଦ୍ଧ, ଆଫଗ�",
+    "unique_id": "070000002605"
+  },
+  {
+    "question_id": 27,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Second Nagorno-Karabakh War, Battle of Plataea, Peloponnesian War, Austro-Prussian War, French invasion of Russia",
+    "expected": "Peloponnesian War, Battle of Plataea, French invasion of Russia, Austro-Prussian War, Second Nagorno-Karabakh War",
+    "prediction": "Battle of Plataea, Peloponnesian War, French invasion of Russia, Second Nagorno-Karabakh War, Austro-Prussian War",
+    "unique_id": "070000002701"
+  },
+  {
+    "question_id": 27,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: બીજું નાગોર્નો-કારાબાખ યુદ્ધ, પ્લેટિયાનું યુદ્ધ, પેલોપોનેશિયન યુદ્ધ, ઓસ્ટ્રો-પ્રુશિયન યુદ્ધ, રશિયા પર ફ્રેન્ચ આક્રમણ",
+    "expected": "પેલોપોનેશિયન યુદ્ધ, પ્લેટિયાનું યુદ્ધ, રશિયા પર ફ્રેન્ચ આક્રમણ, ઓસ્ટ્રો-પ્રુશિયન યુદ્ધ, બીજું નાગોર્નો-કારાબાખ યુદ્ધ",
+    "prediction": "પેલોપોનેશિયન યુદ્ધ, બીજું નાગોર્નો-કારાબાખ યુદ્ધ, પ્લેટિયાનું યુદ્ધ, ઓસ્ટ્રો-પ્રુશિયન યુદ્�",
+    "unique_id": "070000002703"
+  },
+  {
+    "question_id": 27,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: दूसरा नागोर्नो-काराबाख युद्ध, प्लाटिया का युद्ध, पेलोपोनेसियन युद्ध, ऑस्ट्रो-प्रशियाई युद्ध, रूस पर फ्रांसीसी आक्रमण",
+    "expected": "पेलोपोनेसियन युद्ध, प्लाटिया का युद्ध, रूस पर फ्रांसीसी आक्रमण, ऑस्ट्रो-प्रशियाई युद्ध, दूसरा नागोर्नो-काराबाख युद्ध",
+    "prediction": "प्लाटिया का युद्ध, पेलोपोनेसियन युद्ध, रूस पर फ्रांसीसी आक्रमण, ऑस्ट्रो-प्रशियाई युद्ध, दूसरा नागोर्नो-काराबाख युद्ध",
+    "unique_id": "070000002702"
+  },
+  {
+    "question_id": 27,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: दुसरे नागोर्नो-काराबाख युद्ध, प्लॅटियाची लढाई, पेलोपोनेशियन युद्ध, ऑस्ट्रो-प्रशियन युद्ध, रशियावर फ्रेंच आक्रमण",
+    "expected": "पेलोपोनेशियन युद्ध, प्लॅटियाची लढाई, रशियावर फ्रेंच आक्रमण, ऑस्ट्रो-प्रशियन युद्ध, दुसरे नागोर्नो-काराबाख युद्ध",
+    "prediction": "प्लॅटियाची लढाई, पेलोपोनेशियन युद्ध, ऑस्ट्रो-प्रशियन युद्ध, दुसरे नागोर्नो-काराबाख युद्ध, रशियावर फ्रेंच आक्रमण",
+    "unique_id": "070000002704"
+  },
+  {
+    "question_id": 27,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ଦ୍ୱିତୀୟ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ, ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ପେଲୋପୋନେସିଆନ୍ ଯୁଦ୍ଧ, ଅଷ୍ଟ୍ରୋ-ପ୍ରୁସିଆନ୍ ଯୁଦ୍ଧ, ଋଷ ଉପରେ ଫରାସୀ ଆକ୍ରମଣ",
+    "expected": "ପେଲୋପୋନେସିଆନ୍ ଯୁଦ୍ଧ, ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ଋଷ ଉପରେ ଫରାସୀ ଆକ୍ରମଣ, ଅଷ୍ଟ୍ରୋ-ପ୍ରୁସିଆନ୍ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ",
+    "prediction": "ପେଲୋପୋନେସିଆନ୍ ଯୁଦ୍ଧ, ପ୍ଲାଟିଆ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ, �",
+    "unique_id": "070000002705"
+  },
+  {
+    "question_id": 31,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Iraq War, Soviet-Afghan War, Austro-Prussian War, Attack on Pearl Harbor, Battle of Ankara",
+    "expected": "Battle of Ankara, Austro-Prussian War, Attack on Pearl Harbor, Soviet-Afghan War, Iraq War",
+    "prediction": "Austro-Prussian War, Soviet-Afghan War, Battle of Ankara, Attack on Pearl Harbor, Iraq War",
+    "unique_id": "070000003101"
+  },
+  {
+    "question_id": 31,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: ઇરાક યુદ્ધ, સોવિયેત-અફઘાન યુદ્ધ, ઓસ્ટ્રો-પ્રુશિયન યુદ્ધ, પર્લ હાર્બર પર હુમલો, અંકારાનું યુદ્ધ",
+    "expected": "અંકારાનું યુદ્ધ, ઓસ્ટ્રો-પ્રુશિયન યુદ્ધ, પર્લ હાર્બર પર હુમલો, સોવિયેત-અફઘાન યુદ્ધ, ઇરાક યુદ્ધ",
+    "prediction": "ઓસ્ટ્રો-પ્રુશિયન યુદ્ધ, પર્લ હાર્બર પર હુમલો, સોવિયેત-અફઘાન યુદ્ધ, અંકારાનું યુદ્ધ, ઇરાક યુદ્ધ",
+    "unique_id": "070000003103"
+  },
+  {
+    "question_id": 31,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: इराक युद्ध, सोवियत-अफगान युद्ध, ऑस्ट्रो-प्रशियाई युद्ध, पर्ल हार्बर पर हमला, अंकारा का युद्ध",
+    "expected": "अंकारा का युद्ध, ऑस्ट्रो-प्रशियाई युद्ध, पर्ल हार्बर पर हमला, सोवियत-अफगान युद्ध, इराक युद्ध",
+    "prediction": "ऑस्ट्रो-प्रशियाई युद्ध, पर्ल हार्बर पर हमला, सोवियत-अफगान युद्ध, इराक युद्ध, अंकारा का युद्ध",
+    "unique_id": "070000003102"
+  },
+  {
+    "question_id": 31,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: इराक युद्ध, सोव्हिएत-अफगाण युद्ध, ऑस्ट्रो-प्रशियन युद्ध, पर्ल हार्बरवरील हल्ला, अंकाराची लढाई",
+    "expected": "अंकाराची लढाई, ऑस्ट्रो-प्रशियन युद्ध, पर्ल हार्बरवरील हल्ला, सोव्हिएत-अफगाण युद्ध, इराक युद्ध",
+    "prediction": "ऑस्ट्रो-प्रशियन युद्ध, पर्ल हार्बरवरील हल्ला, सोव्हिएत-अफगाण युद्ध, इराक युद्ध, अंकाराची लढाई",
+    "unique_id": "070000003104"
+  },
+  {
+    "question_id": 31,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ଇରାକ ଯୁଦ୍ଧ, ସୋଭିଏତ୍-ଆଫଗାନ୍ ଯୁଦ୍ଧ, ଅଷ୍ଟ୍ରୋ-ପ୍ରୁସିଆନ୍ ଯୁଦ୍ଧ, ପର୍ଲ ହାର୍ବର୍ ଉପରେ ଆକ୍ରମଣ, ଆଙ୍କାରା ଯୁଦ୍ଧ",
+    "expected": "ଆଙ୍କାରା ଯୁଦ୍ଧ, ଅଷ୍ଟ୍ରୋ-ପ୍ରୁସିଆନ୍ ଯୁଦ୍ଧ, ପର୍ଲ ହାର୍ବର୍ ଉପରେ ଆକ୍ରମଣ, ସୋଭିଏତ୍-ଆଫଗାନ୍ ଯୁଦ୍ଧ, ଇରାକ ଯୁଦ୍ଧ",
+    "prediction": "ଅଷ୍ଟ୍ରୋ-ପ୍ରୁସିଆନ୍ ଯୁଦ୍ଧ, ପର୍ଲ ହାର୍ବର୍ ଉପରେ ଆକ୍ରମଣ, ଇରାକ ଯୁଦ୍ଧ, ସୋଭିଏତ୍-ଆଫଗ�",
+    "unique_id": "070000003105"
+  },
+  {
+    "question_id": 32,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Nicopolis, Battle of the Teutoburg Forest, Second Boer War, Battle of Mohács, Battle of Badr",
+    "expected": "Battle of the Teutoburg Forest, Battle of Badr, Battle of Nicopolis, Battle of Mohács, Second Boer War",
+    "prediction": "Battle of the Teutoburg Forest, Battle of Mohács, Battle of Badr, Battle of Nicopolis, Second Boer War",
+    "unique_id": "070000003201"
+  },
+  {
+    "question_id": 32,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: નિકોપોલિસનું યુદ્ધ, ટ્યુટોબર્ગ જંગલનું યુદ્ધ, બીજું બોઅર યુદ્ધ, મોહાક્સનું યુદ્ધ, બદ્રનું યુદ્ધ",
+    "expected": "ટ્યુટોબર્ગ જંગલનું યુદ્ધ, બદ્રનું યુદ્ધ, નિકોપોલિસનું યુદ્ધ, મોહાક્સનું યુદ્ધ, બીજું બોઅર યુદ્ધ",
+    "prediction": "બીજું બોઅર યુદ્ધ, બીજું બોઅર યુદ્ધ, બીજું બોઅર યુદ્ધ, મોહાક્સનું યુદ્ધ, નિકોપોલિસનું યુદ્ધ, બદ્ર",
+    "unique_id": "070000003203"
+  },
+  {
+    "question_id": 32,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: निकोपोलिस का युद्ध, टुटोबर्ग वन का युद्ध, दूसरा बोअर युद्ध, मोहाक का युद्ध, बद्र का युद्ध",
+    "expected": "टुटोबर्ग वन का युद्ध, बद्र का युद्ध, निकोपोलिस का युद्ध, मोहाक का युद्ध, दूसरा बोअर युद्ध",
+    "prediction": "बद्र का युद्ध, मोहाक का युद्ध, निकोपोलिस का युद्ध, टुटोबर्ग वन का युद्ध, दूसरा बोअर युद्ध",
+    "unique_id": "070000003202"
+  },
+  {
+    "question_id": 32,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: निकोपोलिसची लढाई, ट्युटोबर्ग जंगलाची लढाई, दुसरे बोअर युद्ध, मोहाचची लढाई, बद्रची लढाई",
+    "expected": "ट्युटोबर्ग जंगलाची लढाई, बद्रची लढाई, निकोपोलिसची लढाई, मोहाचची लढाई, दुसरे बोअर युद्ध",
+    "prediction": "बद्रची लढाई, निकोपोलिसची लढाई, मोहाचची लढाई, ट्युटोबर्ग जंगलाची लढाई, दुसरे बोअर युद्ध",
+    "unique_id": "070000003204"
+  },
+  {
+    "question_id": 32,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ନିକୋପୋଲିସ୍ ଯୁଦ୍ଧ, ଟ୍ୟୁଟୋବର୍ଗ ଜଙ୍ଗଲର ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ, ମୋହାକ୍ସ ଯୁଦ୍ଧ, ବଦର୍ ଯୁଦ୍ଧ",
+    "expected": "ଟ୍ୟୁଟୋବର୍ଗ ଜଙ୍ଗଲର ଯୁଦ୍ଧ, ବଦର୍ ଯୁଦ୍ଧ, ନିକୋପୋଲିସ୍ ଯୁଦ୍ଧ, ମୋହାକ୍ସ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ",
+    "prediction": "ଦ୍ୱିତୀୟ ବୋଅର୍ ଯୁଦ୍ଧ, ନିକୋପୋଲିସ୍ ଯୁଦ୍ଧ, ବଦର୍ ଯୁଦ୍ଧ, ମୋହାକ୍ସ ଯୁଦ୍ଧ, ଟ୍ୟୁ",
+    "unique_id": "070000003205"
+  },
+  {
+    "question_id": 36,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Kulikovo, Soviet-Afghan War, Falklands War, First Opium War, Battle of Crécy",
+    "expected": "Battle of Crécy, Battle of Kulikovo, First Opium War, Soviet-Afghan War, Falklands War",
+    "prediction": "Battle of Crécy, First Opium War, Battle of Kulikovo, Falklands War, Soviet-Afghan War",
+    "unique_id": "070000003601"
+  },
+  {
+    "question_id": 36,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: કુલીકોવોનું યુદ્ધ, સોવિયેત-અફઘાન યુદ્ધ, ફોકલેન્ડ યુદ્ધ, પ્રથમ અફીણ યુદ્ધ, ક્રેસીનું યુદ્ધ",
+    "expected": "ક્રેસીનું યુદ્ધ, કુલીકોવોનું યુદ્ધ, પ્રથમ અફીણ યુદ્ધ, સોવિયેત-અફઘાન યુદ્ધ, ફોકલેન્ડ યુદ્ધ",
+    "prediction": "ક્રેસીનું યુદ્ધ, પ્રથમ અફીણ યુદ્ધ, કુલીકોવોનું યુદ્ધ, ફોકલેન્ડ યુદ્ધ, સોવિયેત-અફઘાન યુદ્ધ",
+    "unique_id": "070000003603"
+  },
+  {
+    "question_id": 36,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: कुलिकोवो का युद्ध, सोवियत-अफगान युद्ध, फ़ॉकलैंड युद्ध, प्रथम अफीम युद्ध, क्रेसी का युद्ध",
+    "expected": "क्रेसी का युद्ध, कुलिकोवो का युद्ध, प्रथम अफीम युद्ध, सोवियत-अफगान युद्ध, फ़ॉकलैंड युद्ध",
+    "prediction": "क्रेसी का युद्ध, प्रथम अफीम युद्ध, फ़ॉकलैंड युद्ध, सोवियत-अफगान युद्ध, कुलिकोवो का युद्ध",
+    "unique_id": "070000003602"
+  },
+  {
+    "question_id": 36,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: कुलिकोवोची लढाई, सोव्हिएत-अफगाण युद्ध, फॉकलँड युद्ध, पहिले अफूचे युद्ध, क्रेसीची लढाई",
+    "expected": "क्रेसीची लढाई, कुलिकोवोची लढाई, पहिले अफूचे युद्ध, सोव्हिएत-अफगाण युद्ध, फॉकलँड युद्ध",
+    "prediction": "क्रेसीची लढाई, पहिले अफूचे युद्ध, कुलिकोवोची लढाई, सोव्हिएत-अफगाण युद्ध, फॉकलँड युद्ध",
+    "unique_id": "070000003604"
+  },
+  {
+    "question_id": 36,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: କୁଲିକୋଭୋ ଯୁଦ୍ଧ, ସୋଭିଏତ୍-ଆଫଗାନ୍ ଯୁଦ୍ଧ, ଫକଲ୍ୟାଣ୍ଡ ଯୁଦ୍ଧ, ପ୍ରଥମ ଅଫିମ ଯୁଦ୍ଧ, କ୍ରେସି ଯୁଦ୍ଧ",
+    "expected": "କ୍ରେସି ଯୁଦ୍ଧ, କୁଲିକୋଭୋ ଯୁଦ୍ଧ, ପ୍ରଥମ ଅଫିମ ଯୁଦ୍ଧ, ସୋଭିଏତ୍-ଆଫଗାନ୍ ଯୁଦ୍ଧ, ଫକଲ୍ୟାଣ୍ଡ ଯୁଦ୍ଧ",
+    "prediction": "ক୍ରେସି ଯୁଦ୍ଧ, ଫକଲ୍ୟାଣ୍ଡ ଯୁଦ୍ଧ, ପ୍ରଥମ ଅଫିମ ଯୁଦ୍ଧ, ସୋଭିଏତ୍-ଆଫଗାନ୍ ଯୁଦ୍ଧ, କୁଲି",
+    "unique_id": "070000003605"
+  },
+  {
+    "question_id": 37,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Gaza war (2023–), Second Balkan War, Russian invasion of Ukraine, Iran–Iraq War, Hundred Years' War",
+    "expected": "Hundred Years' War, Second Balkan War, Iran–Iraq War, Russian invasion of Ukraine, Gaza war (2023–)",
+    "prediction": "Hundred Years' War, Second Balkan War, Iran–Iraq War, Russian invasion of Ukraine, Gaza war (2023–)",
+    "unique_id": "070000003701"
+  },
+  {
+    "question_id": 37,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: ગાઝા યુદ્ધ (2023–), બીજું બાલ્કન યુદ્ધ, યુક્રેન પર રશિયન આક્રમણ, ઈરાન-ઈરાક યુદ્ધ, સો વર્ષનું યુદ્ધ",
+    "expected": "સો વર્ષનું યુદ્ધ, બીજું બાલ્કન યુદ્ધ, ઈરાન-ઈરાક યુદ્ધ, યુક્રેન પર રશિયન આક્રમણ, ગાઝા યુદ્ધ (2023–)",
+    "prediction": "ઈરાન-ઈરાક યુદ્ધ, સો વર્ષનું યુદ્ધ, બીજું બાલ્કન યુદ્ધ, યુક્રેન પર રશિયન આક્રમણ, ગાઝા યુદ્ધ",
+    "unique_id": "070000003703"
+  },
+  {
+    "question_id": 37,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: गाजा युद्ध (2023–), दूसरा बाल्कन युद्ध, यूक्रेन पर रूसी आक्रमण, ईरान-इराक युद्ध, सौ साल का युद्ध",
+    "expected": "सौ साल का युद्ध, दूसरा बाल्कन युद्ध, ईरान-इराक युद्ध, यूक्रेन पर रूसी आक्रमण, गाजा युद्ध (2023–)",
+    "prediction": "सौ साल का युद्ध, दूसरा बाल्कन युद्ध, ईरान-इराक युद्ध, यूक्रेन पर रूसी आक्रमण, गाजा युद्ध (2023–)",
+    "unique_id": "070000003702"
+  },
+  {
+    "question_id": 37,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: गाझा युद्ध (2023–), दुसरे बाल्कन युद्ध, रशियन आक्रमण युक्रेनवर, इराण-इराक युद्ध, शंभर वर्षांचे युद्ध",
+    "expected": "शंभर वर्षांचे युद्ध, दुसरे बाल्कन युद्ध, इराण-इराक युद्ध, रशियन आक्रमण युक्रेनवर, गाझा युद्ध (2023–)",
+    "prediction": "दुसरे बाल्कन युद्ध, इराण-इराक युद्ध, रशियन आक्रमण युक्रेनवर, शंभर वर्षांचे युद्ध, गाझा युद्ध (2023–)",
+    "unique_id": "070000003704"
+  },
+  {
+    "question_id": 37,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ଗାଜା ଯୁଦ୍ଧ (2023–), ଦ୍ୱିତୀୟ ବାଲକାନ୍ ଯୁଦ୍ଧ, ୟୁକ୍ରେନ ଉପରେ ଋଷୀୟ ଆକ୍ରମଣ, ଇରାନ୍-ଇରାକ ଯୁଦ୍ଧ, ଶହେ ବର୍ଷର ଯୁଦ୍ଧ",
+    "expected": "ଶହେ ବର୍ଷର ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ବାଲକାନ୍ ଯୁଦ୍ଧ, ଇରାନ୍-ଇରାକ ଯୁଦ୍ଧ, ୟୁକ୍ରେନ ଉପରେ ଋଷୀୟ ଆକ୍ରମଣ, ଗାଜା ଯୁଦ୍ଧ (2023–)",
+    "prediction": "দ୍ୱିତୀୟ ବାଲକାନ୍ ଯୁଦ୍ଧ, ଇରାନ୍-ଇରାକ ଯୁଦ୍ଧ, ୟୁକ୍ରେନ ଉପରେ ଋଷୀୟ ଆକ୍ରମଣ, ଗାଜା ଯ�",
+    "unique_id": "070000003705"
+  },
+  {
+    "question_id": 41,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Soviet-Afghan War, Second Nagorno-Karabakh War, Battle of Zama, Battle of the Little Bighorn, First Opium War",
+    "expected": "Battle of Zama, First Opium War, Battle of the Little Bighorn, Soviet-Afghan War, Second Nagorno-Karabakh War",
+    "prediction": "Battle of Zama, First Opium War, Battle of the Little Bighorn, Soviet-Afghan War, Second Nagorno-Karabakh War",
+    "unique_id": "070000004101"
+  },
+  {
+    "question_id": 41,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: સોવિયેત-અફઘાન યુદ્ધ, બીજું નાગોર્નો-કારાબાખ યુદ્ધ, ઝામાનું યુદ્ધ, લિટલ બિગહોર્નનું યુદ્ધ, પ્રથમ અફીણ યુદ્ધ",
+    "expected": "ઝામાનું યુદ્ધ, પ્રથમ અફીણ યુદ્ધ, લિટલ બિગહોર્નનું યુદ્ધ, સોવિયેત-અફઘાન યુદ્ધ, બીજું નાગોર્નો-કારાબાખ યુદ્ધ",
+    "prediction": "પ્રથમ અફીણ યુદ્ધ, ઝામાનું યુદ્ધ, લિટલ બિગહોર્નનું યુદ્ધ, બીજું નાગોર્નો-કારાબાખ યુદ્ધ, સોવિયેત-અ",
+    "unique_id": "070000004103"
+  },
+  {
+    "question_id": 41,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: सोवियत-अफगान युद्ध, दूसरा नागोर्नो-काराबाख युद्ध, ज़ामा का युद्ध, लिटिल बिघोर्न का युद्ध, प्रथम अफीम युद्ध",
+    "expected": "ज़ामा का युद्ध, प्रथम अफीम युद्ध, लिटिल बिघोर्न का युद्ध, सोवियत-अफगान युद्ध, दूसरा नागोर्नो-काराबाख युद्ध",
+    "prediction": "लिटिल बिघोर्न का युद्ध, ज़ामा का युद्ध, प्रथम अफीम युद्ध, सोवियत-अफगान युद्ध, दूसरा नागोर्नो-काराबाख युद्ध",
+    "unique_id": "070000004102"
+  },
+  {
+    "question_id": 41,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: सोव्हिएत-अफगाण युद्ध, दुसरे नागोर्नो-काराबाख युद्ध, झामाची लढाई, लिटल बिगहॉर्नची लढाई, पहिले अफूचे युद्ध",
+    "expected": "झामाची लढाई, पहिले अफूचे युद्ध, लिटल बिगहॉर्नची लढाई, सोव्हिएत-अफगाण युद्ध, दुसरे नागोर्नो-काराबाख युद्ध",
+    "prediction": "झामाची लढाई, पहिले अफूचे युद्ध, लिटल बिगहॉर्नची लढाई, सोव्हिएत-अफगाण युद्ध, दुसरे नागोर्नो-काराबाख युद्ध",
+    "unique_id": "070000004104"
+  },
+  {
+    "question_id": 41,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ସୋଭିଏତ୍-ଆଫଗାନ୍ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ, ଜାମା ଯୁଦ୍ଧ, ଲିଟିଲ୍ ବିଗହର୍ନ ଯୁଦ୍ଧ, ପ୍ରଥମ ଅଫିମ ଯୁଦ୍ଧ",
+    "expected": "ଜାମା ଯୁଦ୍ଧ, ପ୍ରଥମ ଅଫିମ ଯୁଦ୍ଧ, ଲିଟିଲ୍ ବିଗହର୍ନ ଯୁଦ୍ଧ, ସୋଭିଏତ୍-ଆଫଗାନ୍ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ",
+    "prediction": "ଦ୍ୱିତୀୟ ନାଗୋର୍ଣ୍ଣୋ-କାରାବାଖ୍ ଯୁଦ୍ଧ, ଜାମା ଯୁଦ୍ଧ, ପ୍ରଥମ ଅଫିମ ଯୁଦ୍ଧ, ଲିଟିଲ୍ ବ",
+    "unique_id": "070000004105"
+  },
+  {
+    "question_id": 42,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Hastings, Battle of the Trench, First Indochina War, Battle of Moscow, Iran–Iraq War",
+    "expected": "Battle of the Trench, Battle of Hastings, Battle of Moscow, First Indochina War, Iran–Iraq War",
+    "prediction": "Battle of the Trench, Battle of Hastings, Battle of Moscow, First Indochina War, Iran–Iraq War",
+    "unique_id": "070000004201"
+  },
+  {
+    "question_id": 42,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: હેસ્ટિંગ્સનું યુદ્ધ, ખાઈનું યુદ્ધ, પ્રથમ ઈન્ડોચાઇના યુદ્ધ, મોસ્કોનું યુદ્ધ, ઈરાન-ઈરાક યુદ્ધ",
+    "expected": "ખાઈનું યુદ્ધ, હેસ્ટિંગ્સનું યુદ્ધ, મોસ્કોનું યુદ્ધ, પ્રથમ ઈન્ડોચાઇના યુદ્ધ, ઈરાન-ઈરાક યુદ્ધ",
+    "prediction": "હેસ્ટિંગ્સનું યુદ્ધ, ખાઈનું યુદ્ધ, મોસ્કોનું યુદ્ધ, ઈરાન-ઈરાક યુદ્ધ, પ્રથમ ઈન્ડોચાઇના યુદ્ધ",
+    "unique_id": "070000004203"
+  },
+  {
+    "question_id": 42,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: हेस्टिंग्स का युद्ध, खाई का युद्ध, प्रथम इंडोचीन युद्ध, मॉस्को का युद्ध, ईरान-इराक युद्ध",
+    "expected": "खाई का युद्ध, हेस्टिंग्स का युद्ध, मॉस्को का युद्ध, प्रथम इंडोचीन युद्ध, ईरान-इराक युद्ध",
+    "prediction": "हेस्टिंग्स का युद्ध, खाई का युद्ध, मॉस्को का युद्ध, प्रथम इंडोचीन युद्ध, ईरान-इराक युद्ध",
+    "unique_id": "070000004202"
+  },
+  {
+    "question_id": 42,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: हेस्टिंग्जची लढाई, खंदकाची लढाई, पहिले इंडोचायना युद्ध, मॉस्कोची लढाई, इराण-इराक युद्ध",
+    "expected": "खंदकाची लढाई, हेस्टिंग्जची लढाई, मॉस्कोची लढाई, पहिले इंडोचायना युद्ध, इराण-इराक युद्ध",
+    "prediction": "हेस्टिंग्जची लढाई, खंदकाची लढाई, पहिले इंडोचायना युद्ध, मॉस्कोची लढाई, इराण-इराक युद्ध",
+    "unique_id": "070000004204"
+  },
+  {
+    "question_id": 42,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ହେଷ୍ଟିଙ୍ଗ୍ସ ଯୁଦ୍ଧ, ଖାଇ ଯୁଦ୍ଧ, ପ୍ରଥମ ଇଣ୍ଡୋଚାଇନା ଯୁଦ୍ଧ, ମସ୍କୋ ଯୁଦ୍ଧ, ଇରାନ୍-ଇରାକ ଯୁଦ୍ଧ",
+    "expected": "ଖାଇ ଯୁଦ୍ଧ, ହେଷ୍ଟିଙ୍ଗ୍ସ ଯୁଦ୍ଧ, ମସ୍କୋ ଯୁଦ୍ଧ, ପ୍ରଥମ ଇଣ୍ଡୋଚାଇନା ଯୁଦ୍ଧ, ଇରାନ୍-ଇରାକ ଯୁଦ୍ଧ",
+    "prediction": "ହେଷ୍ଟିଙ୍ଗ୍ସ ଯୁଦ୍ଧ, ଖାଇ ଯୁଦ୍ଧ, ମସ୍କୋ ଯୁଦ୍ଧ, ଇରାନ୍-ଇରାକ ଯୁଦ୍ଧ, ପ୍ରଥମ ଇଣ୍ଡୋଚ�",
+    "unique_id": "070000004205"
+  },
+  {
+    "question_id": 46,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Gaza war (2023–), Polish–Soviet War, Spanish–American War, First Balkan War, War of the Pacific",
+    "expected": "War of the Pacific, Spanish–American War, First Balkan War, Polish–Soviet War, Gaza war (2023–)",
+    "prediction": "Polish–Soviet War, War of the Pacific, First Balkan War, Spanish–American War, Gaza war (2023–)",
+    "unique_id": "070000004601"
+  },
+  {
+    "question_id": 46,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: ગાઝા યુદ્ધ (2023–), પોલિશ-સોવિયેત યુદ્ધ, સ્પેનિશ-અમેરિકન યુદ્ધ, પ્રથમ બાલ્કન યુદ્ધ, પેસિફિકનું યુદ્ધ",
+    "expected": "પેસિફિકનું યુદ્ધ, સ્પેનિશ-અમેરિકન યુદ્ધ, પ્રથમ બાલ્કન યુદ્ધ, પોલિશ-સોવિયેત યુદ્ધ, ગાઝા યુદ્ધ (2023–)",
+    "prediction": "સ્પેનિશ-અમેરિકન યુદ્ધ, પોલિશ-સોવિયેત યુદ્ધ, પેસિફિકનું યુદ્ધ, પ્રથમ બાલ્કન યુદ્ધ, ગાઝા યુદ્ધ (2",
+    "unique_id": "070000004603"
+  },
+  {
+    "question_id": 46,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: गाजा युद्ध (2023–), पोलिश-सोवियत युद्ध, स्पेनिश-अमेरिकी युद्ध, प्रथम बाल्कन युद्ध, प्रशांत का युद्ध",
+    "expected": "प्रशांत का युद्ध, स्पेनिश-अमेरिकी युद्ध, प्रथम बाल्कन युद्ध, पोलिश-सोवियत युद्ध, गाजा युद्ध (2023–)",
+    "prediction": "स्पेनिश-अमेरिकी युद्ध, पोलिश-सोवियत युद्ध, प्रथम बाल्कन युद्ध, गाजा युद्ध (2023–), प्रशांत का युद्ध",
+    "unique_id": "070000004602"
+  },
+  {
+    "question_id": 46,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: गाझा युद्ध (2023–), पोलिश-सोव्हिएत युद्ध, स्पॅनिश-अमेरिकन युद्ध, पहिले बाल्कन युद्ध, पॅसिफिकचे युद्ध",
+    "expected": "पॅसिफिकचे युद्ध, स्पॅनिश-अमेरिकन युद्ध, पहिले बाल्कन युद्ध, पोलिश-सोव्हिएत युद्ध, गाझा युद्ध (2023–)",
+    "prediction": "स्पॅनिश-अमेरिकन युद्ध, पोलिश-सोव्हिएत युद्ध, पहिले बाल्कन युद्ध, गाझा युद्ध (2023–), पॅसिफिकचे युद्ध",
+    "unique_id": "070000004604"
+  },
+  {
+    "question_id": 46,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ଗାଜା ଯୁଦ୍ଧ (2023–), ପୋଲିଶ୍-ସୋଭିଏତ୍ ଯୁଦ୍ଧ, ସ୍ପାନିଶ୍-ଆମେରିକାନ୍ ଯୁଦ୍ଧ, ପ୍ରଥମ ବାଲକାନ୍ ଯୁଦ୍ଧ, ପ୍ରଶାନ୍ତ ମହାସାଗରୀୟ ଯୁଦ୍ଧ",
+    "expected": "ପ୍ରଶାନ୍ତ ମହାସାଗରୀୟ ଯୁଦ୍ଧ, ସ୍ପାନିଶ୍-ଆମେରିକାନ୍ ଯୁଦ୍ଧ, ପ୍ରଥମ ବାଲକାନ୍ ଯୁଦ୍ଧ, ପୋଲିଶ୍-ସୋଭିଏତ୍ ଯୁଦ୍ଧ, ଗାଜା ଯୁଦ୍ଧ (2023–)",
+    "prediction": "ସ୍ପାନିଶ୍-ଆମେରିକାନ୍ ଯୁଦ୍ଧ, ପୋଲିଶ୍-ସୋଭିଏତ୍ ଯୁଦ୍ଧ, ପ୍ରଥମ ବାଲକାନ୍ ଯୁଦ୍ଧ, ଗାଜା �",
+    "unique_id": "070000004605"
+  },
+  {
+    "question_id": 47,
+    "language": "English",
+    "category": "chrono_questions",
+    "question": "Arrange the following events in chronological order: Battle of Marathon, Black January, War of the Austrian Succession, Battle of Carrhae, Second Punic War",
+    "expected": "Battle of Marathon, Second Punic War, Battle of Carrhae, War of the Austrian Succession, Black January",
+    "prediction": "Battle of Carrhae, Second Punic War, Battle of Marathon, War of the Austrian Succession, Black January",
+    "unique_id": "070000004701"
+  },
+  {
+    "question_id": 47,
+    "language": "Gujarati",
+    "category": "chrono_questions",
+    "question": "નીચેની ઘટનાઓને કાલક્રમિક ક્રમમાં ગોઠવો: મેરેથોનનું યુદ્ધ, બ્લેક જાન્યુઆરી, ઓસ્ટ્રિયન ઉત્તરાધિકારનું યુદ્ધ, કારહેનું યુદ્ધ, બીજું પ્યુનિક યુદ્ધ",
+    "expected": "મેરેથોનનું યુદ્ધ, બીજું પ્યુનિક યુદ્ધ, કારહેનું યુદ્ધ, ઓસ્ટ્રિયન ઉત્તરાધિકારનું યુદ્ધ, બ્લેક જાન્યુઆરી",
+    "prediction": "મેરેથોનનું યુદ્ધ, બીજું પ્યુનિક યુદ્ધ, કારહેનું યુદ્ધ, ઓસ્ટ્રિયન ઉત્તરાધિકારનું યુદ્ધ, બ્લેક જ�",
+    "unique_id": "070000004703"
+  },
+  {
+    "question_id": 47,
+    "language": "Hindi",
+    "category": "chrono_questions",
+    "question": "निम्नलिखित घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें: मैराथन का युद्ध, ब्लैक जनवरी, ऑस्ट्रियाई उत्तराधिकार का युद्ध, कारहे का युद्ध, दूसरा पुनिक युद्ध",
+    "expected": "मैराथन का युद्ध, दूसरा पुनिक युद्ध, कारहे का युद्ध, ऑस्ट्रियाई उत्तराधिकार का युद्ध, ब्लैक जनवरी",
+    "prediction": "मैराथन का युद्ध, ऑस्ट्रियाई उत्तराधिकार का युद्ध, कारहे का युद्ध, दूसरा पुनिक युद्ध, ब्लैक जनवरी",
+    "unique_id": "070000004702"
+  },
+  {
+    "question_id": 47,
+    "language": "Marathi",
+    "category": "chrono_questions",
+    "question": "खालील घटनांची कालक्रमानुसार मांडणी करा: मॅरेथॉनची लढाई, ब्लॅक जानेवारी, ऑस्ट्रियन वारसा हक्काचे युद्ध, कारहेची लढाई, दुसरे प्युनिक युद्ध",
+    "expected": "मॅरेथॉनची लढाई, दुसरे प्युनिक युद्ध, कारहेची लढाई, ऑस्ट्रियन वारसा हक्काचे युद्ध, ब्लॅक जानेवारी",
+    "prediction": "मॅरेथॉनची लढाई, ऑस्ट्रियन वारसा हक्काचे युद्ध, कारहेची लढाई, दुसरे प्युनिक युद्ध, ब्लॅक जानेवारी",
+    "unique_id": "070000004704"
+  },
+  {
+    "question_id": 47,
+    "language": "Odia",
+    "category": "chrono_questions",
+    "question": "ନିମ୍ନଲିଖିତ ଘଟଣାଗୁଡ଼ିକୁ କାଳାନୁକ୍ରମିକ କ୍ରମରେ ସଜାନ୍ତୁ: ମାରାଥନ୍ ଯୁଦ୍ଧ, ବ୍ଲାକ୍ ଜାନୁଆରୀ, ଅଷ୍ଟ୍ରିଆନ୍ ଉତ୍ତରାଧିକାର ଯୁଦ୍ଧ, କାରହେ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ପୁନିକ୍ ଯୁଦ୍ଧ",
+    "expected": "ମାରାଥନ୍ ଯୁଦ୍ଧ, ଦ୍ୱିତୀୟ ପୁନିକ୍ ଯୁଦ୍ଧ, କାରହେ ଯୁଦ୍ଧ, ଅଷ୍ଟ୍ରିଆନ୍ ଉତ୍ତରାଧିକାର ଯୁଦ୍ଧ, ବ୍ଲାକ୍ ଜାନୁଆରୀ",
+    "prediction": "ମାରାଥନ୍ ଯୁଦ୍�haul, ବ୍ଲାକ୍ ଜାନୁଆରୀ, ଦ୍ୱିତୀୟ ପୁନିକ୍ ଯୁଦ୍�haul, ଅଷ୍ଟ୍ରିଆନ୍ ଉତ୍ତରାଧି",
+    "unique_id": "070000004705"
+  }
+]
